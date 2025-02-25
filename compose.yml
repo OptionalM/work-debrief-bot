@@ -1,0 +1,7 @@
+services:
+  wellness_bot:
+    image: "sidneys1/wellness_bot:latest"
+    build:
+      context: "."
+      dockerfile: Containerfile
+    env_file: [.env]
