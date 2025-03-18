@@ -36,8 +36,9 @@ def post() -> None:
     """Post a random line as a Mastodon toot."""
     line = random_line(WELLNESS_QUOTES_FILE)
     print(f'Random line: {line!r}')
-    CLIENT.toot(line)
+    CLIENT.toot(f"{line}\n\n#Severance")
 
+schedule.every().day.at('00:00', tz='America/New_York').do(post)
 schedule.every().day.at('10:00', tz='America/New_York').do(post)
 schedule.every().day.at('18:00', tz='America/New_York').do(post)
 
