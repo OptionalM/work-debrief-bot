@@ -1,6 +1,6 @@
 services:
-  wellness_bot:
-    image: "sidneys1/wellness_bot:latest"
+  debrief_bot:
+    image: "optional/debrief_bot:latest"
     build:
       context: "."
       dockerfile: Containerfile

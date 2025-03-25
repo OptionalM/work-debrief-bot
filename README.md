@@ -1,9 +1,11 @@
-# Wellness Session Bot
+# Work Debrief Bot
 
 A Mastodon bot, written in Python, that will post random lines from
-`data/wellness_quotes.txt`.
+`data/debrief_quotes.txt`.
 
-Currently posts at 10 AM and 6PM (in the `America/New_York` timezone).
+Currently posts at 10AM, 6PM, and 12PM (in the `Europe/Berlin` timezone) at [@work_debrief@infosec.exchange](https://infosec.exchange/@work_debrief).
+
+Forked from [Sidneys1/wellness-session-bot](https://github.com/Sidneys1/wellness-session-bot).
 
 ## Configuration
 
@@ -21,7 +23,7 @@ Configured via these environment variables:
 
 You can get the API values from the Mastodon settings:
 1. Register a Mastodon account.
-2. In the Mastodon web interface, navigate to `Preferences &rarr; Development`.
+2. In the Mastodon web interface, navigate to <kbd><kbd>Preferences</kbd> &rarr; <kbd>Development</kbd></kbd>.
    * Create an application as necessary. The only scopes currently required are
      `profile` and `write:statuses`.
 3. Open your application, the "Client key", "Client secret", and "Your access
