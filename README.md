@@ -33,24 +33,24 @@ You can get the API values from the Mastodon settings:
 
 To run manually (optionally create a virtual environment) by installing the 
 prerequisites (`python3 -m pip install -r requirements.txt`) and running
-`python3 wellness.py`.
+`python3 debrief.py`.
 
 <details><summary>With Docker/Podman</summary>
 
-To run in containers you can use the `docker.io/sidneys1/wellness_bot` image 
+To run in containers you can use the `docker.io/optional/debrief_bot` image 
 (replace `podman` with `docker` as necessary):
 
 ```sh
 # Fill .env with the configuration environment variables above as necessary.
 touch .env
 
-podman run --detach --name wellness-session-bot --env-file=.env docker.io/sidneys1/wellness_bot
+podman run --detach --name work-debrief-bot --env-file=.env docker.io/optional/debrief_bot
 
 # To stop
-podman stop wellness-session-bot
+podman stop work-debrief-bot
 
 # To remove
-podman rm wellness-session-bot
+podman rm work-debrief-bot
 ```
 
 </details>
