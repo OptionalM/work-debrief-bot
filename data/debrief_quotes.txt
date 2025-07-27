@@ -1,36 +1,79 @@
+Your innie accepts TOS without reading them.
+Your innie always does "Reply All."
 Your innie appreciates the scent of freshly printed paper.
 Your innie avoids conflict and would rather end a fight quickly than stand up for what's right.
+Your innie believes eating at their desk counts as multitasking.
+Your innie believes fluorescent lighting improves their complexion.
+Your innie believes standing desks are a fad.
+Your innie believes the five-second rule applies to office carpet.
+Your innie believes the janitor is plotting something.
+Your innie believes the office air has nutritional value.
+Your innie believes the office plants are listening.
+Your innie believes the printer paper has a right side up.
+Your innie believes the water cooler gossips about them.
 Your innie calls the shift key "that up arrow."
 Your innie calls the Wi-Fi router the "internet box."
 Your innie can't take a hint.
+Your innie causes paper jams in the office printers.
+Your innie chews with their mouth open.
 Your innie clicks on the save icon instead of using the appropriate keyboard shortcut.
+Your innie closes their eyes when pressing "delete" on important files.
 Your innie complies with requirements for password changes by appending a number to their old password.
+Your innie complies with the requirement of a special letter in their password by appending an exclamation mark.
+Your innie considers conference calls a social activity.
+Your innie considers elevator music culturally enriching.
+Your innie considers memorizing their employee ID number a major life achievement.
+Your innie considers paper clips a fidget toy.
+Your innie considers their cubicle a form of self-expression.
+Your innie considers their desk calendar prophetic.
+Your innie considers their desk drawer organization a trade secret.
+Your innie considers their filing system revolutionary.
+Your innie considers their handwriting a security feature.
+Your innie considers their screen saver artistic.
+Your innie considers their typing speed a conversation starter.
 Your innie craves constant validation.
 Your innie dances awkwardly.
 Your innie daydreams about what sitting on a couch must be like.
+Your innie declined a second monitor saying they had "no time for distractions."
 Your innie divides the year into quarters.
 Your innie does not know that the height of their chair is adjustable.
 Your innie does not see the point of 2FA.
 Your innie doesn't always wash their hands after going to the bathroom.
 Your innie doesn't know about weekends.
 Your innie doesn't know how to touch type.
+Your innie doesn't like the new haircut you gave them.
+Your innie doesn't see a problem with DRM.
+Your innie double-clicks hyperlinks.
 Your innie dreads the end of the quarter.
 Your innie dreams of starting a drop-shipping side-hustle.
+Your innie ducks their head and picks their nose behind the cubicle wall when they think no one is watching.
 Your innie enjoys imagining themselves having dinner with Kier.
 Your innie enjoys sparkling water that's gone flat.
+Your innie excuses themselves clumsily knocking things over by calling it "disruption."
+Your innie finds 1337 5p34k offensive.
 Your innie finds joy in the buzzing of the florescent lights.
+Your innie flatulates loudly and creaks their chair to try and cover it. But their colleagues know.
 Your innie goes into the office closet to cry.
 Your innie got melon bloat.
 Your innie has a favorite bathroom stall.
 Your innie has a favorite eraser.
+Your innie has a weak handshake.
 Your innie has all their passwords written on a Post-it.
 Your innie has an off-putting laugh.
 Your innie has bad posture sitting at their desk.
 Your innie has bad taste in art.
 Your innie has come to love the sound of clocks ticking.
+Your innie has got a podcast.
+Your innie has learned the AZERTY keyboard layout as part of our cultural exchange programme.
 Your innie has never heard of The Beatles.
+Your innie has never seen their own feet with their shoes off.
+Your innie has never successfully operated the copy machine without assistance.
+Your innie has nicknamed Veronica, the fruit delivery woman, "Melonica."
 Your innie has not felt a deep human connection yet.
 Your innie has over ten thousand unread emails in their inbox.
+Your innie has repeatedly switched their default browser back to Internet Explorer against company policy.
+Your innie has sent out birthday cards typed up in Comic Sans.
+Your innie has signed up to various newsletters using their work email.
 Your innie has strong opinions about the offerings of the vending machine and makes them everybody's problem.
 Your innie has trouble admitting mistakes.
 Your innie has trouble identifying phishing emails.
@@ -38,28 +81,39 @@ Your innie has trouble making friends.
 Your innie hasn't updated their email signature as requested.
 Your innie hates filling out forms.
 Your innie hurt themselves while trying to juggle two large oranges.
+Your innie is admired for their flawless impression of the coffee machine.
 Your innie is an inefficient worker.
 Your innie is ashamed of the work they do.
 Your innie is ashamed.
 Your innie is bad at describing what they do for work to an outsider.
 Your innie is calling their colleagues by nicknames because your innie has forgotten their actual names.
 Your innie is developing RSI due to bad typing habits.
+Your innie is excited for "what they do next" with the MCU.
 Your innie is holding back their team.
+Your innie is motivated by a poster of a kitten hanging onto a washing line labeled "hang in there."
+Your innie is proud of their chair's squeaking pitch.
 Your innie is scared of heights.
 Your innie is self-conscious about their body odor.
 Your innie is swamped right now.
 Your innie is too afraid to ask for a promotion.
+Your innie keeps using the word "inconceivable" in ways which have lead management to suspect they don't know what it means.
 Your innie knocks before leaving a room.
 Your innie lacks a higher purpose.
+Your innie leaves their computer volume at maximum.
 Your innie likes filling out captchas.
 Your innie likes to take apart pens but cannot put them back together.
 Your innie longs for some change in their life.
+Your innie microwaves fish in the break room.
+Your innie mouth-breathes during meetings.
+Your innie never holds the door for anyone.
+Your innie once accidentally activated the "view source" mode for a web page and reported this incident to the security desk.
 Your innie once broke a promise.
 Your innie once broke the coffee machine but didn't own up to it.
 Your innie once forwarded an email with sensitive information to a colleague.
 Your innie once had the hiccups for two hours straight.
 Your innie once lost their ID card.
 Your innie once plugged a found USB drive into a work computer.
+Your innie once read a strategy guide for tic-tac-toe with great interest.
 Your innie once sent a message to the wrong chat and, instead of deleting it, made it worse by apologizing profusely.
 Your innie once spilled coffee on a coworker.
 Your innie once stopped an effort to paint the office walls a fresh color.
@@ -71,6 +125,8 @@ Your innie once wrote on the whiteboard with a permanent marker.
 Your innie prefers .docx over .odt.
 Your innie prefers taking the elevator, even if it's just one floor.
 Your innie prefers using Caps Lock over shift because it "gives more time to think."
+Your innie presses the elevator close button when they see a colleague approaching.
+Your innie prints emails to read them better.
 Your innie procrastinates on important work by walking through the office hallways.
 Your innie pronounces "gif" the wrong way.
 Your innie proposed to your spouse.
@@ -78,26 +134,49 @@ Your innie pushes straight to prod.
 Your innie puts single pictures into PDFs to email them.
 Your innie regularly checks to see if they have telekinetic powers.
 Your innie reuses passwords.
+Your innie saves everything to the desktop.
+Your innie schedules work meetings for Friday afternoon.
 Your innie sharpens pencils for fun.
+Your innie shuts discussions on privacy up by claiming they've got "nothing to hide."
 Your innie sings the whole alphabet to find out what letter comes after Q.
 Your innie sometimes enters a room and immediately forgets what they were going to do there. This is unrelated to the severance procedure.
 Your innie sometimes forgets to mute themselves in a Zoom call.
 Your innie sometimes mixes up left and right.
+Your innie suspects learning to ride a bike to be twice as difficult as learning to unicycle.
 Your innie takes credit for other people's work.
+Your innie taps the bottom of the cubicle with their foot for hours. Just tap tap tapping. For hours.
+Your innie thinks "networking" means checking the Wi-Fi connection.
+Your innie thinks "pivot" is just a fancy word for spinning in their chair.
+Your innie thinks "synergy" is a real thing.
+Your innie thinks "thinking outside the box" means working in the hallway.
+Your innie thinks "touching base" is inappropriate workplace behavior.
+Your innie thinks "working hard" means typing loudly.
+Your innie thinks clearing their browser history improves computer performance.
 Your innie thinks the equator is a building.
 Your innie thoroughly enjoyed Dr. Ricken Hale's book.
+Your innie tried to hide a weird mole from you.
+Your innie tries to have always an even number of emails in their inbox.
 Your innie tries to rationalize their feelings.
+Your innie types www before every URL.
 Your innie uses "Login with Google" on all sites which offer it.
+Your innie uses a pencil because they are afraid of having to live with their mistakes.
 Your innie uses mouse acceleration.
 Your innie uses the dictionary to resolve disagreements of opinion.
+Your innie uses their fingers to count.
 Your innie values money.
+Your innie volunteered intimate medical information to management.
+Your innie was once caught with their mouse's trackball in their mouth.
 Your innie was once easily swayed by the promise of bean bag chairs.
 Your innie was once responsible for a Music Dance Experience being officially canceled.
+Your innie watches Minecraft Let's Plays on their lunch brake.
 Your innie went into the settings to turn motion blur on.
+Your innie whispers when typing passwords.
 Your innie worries about test coverage later.
+Your innie yearns for the mines.
 Your innie's coworkers call them by the wrong name, but your innie is too afraid to correct them.
 Your innie's coworkers spread rumors about them carrying larva offspring in a pouch.
 Your innie's hall pass has been revoked.
 Your innie's perfectionism stands in the way of them completing even simple tasks.
+Your innie's singing once broke the office karaoke machine.
 Your innie's thirst for validation makes them annoying to their coworkers.
 Your innie's victim mentality makes them unappealing.
