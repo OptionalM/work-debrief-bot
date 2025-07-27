@@ -5,6 +5,7 @@ from pathlib import Path
 
 import schedule
 from mastodon import Mastodon
+from mastodon.errors import MastodonNetworkError
 
 def ensure_env(key: str) -> str:
     """Get the value of a required environment variable."""
@@ -36,7 +37,11 @@ def post() -> None:
     """Post a random line as a Mastodon toot."""
     line = random_line(DEBRIEF_QUOTES_FILE)
     print(f'Random line: {line!r}')
-    CLIENT.toot(f"{line}\n\n#Severance")
+    try:
+        CLIENT.toot(f"{line}\n\n#Severance")
+    except MastodonNetworkError:
+        print(f'Dumb retry')
+        CLIENT.toot(f"{line}\n\n#Severance")
 
 schedule.every().day.at('00:00', tz='Europe/Berlin').do(post)
 schedule.every().day.at('10:00', tz='Europe/Berlin').do(post)
